@@ -14,7 +14,7 @@ body {
   height: 100vh;
   perspective: 1000px;
   transform-style: preserve-3d;
-  margin:0 auto;
+  margin-left:30%;
 }
 
 img {
@@ -28,9 +28,8 @@ h2 {
   color: #009500;
   text-align: center;
 }
-
 .wrap {
-  width: 350px;
+  width: 300px;
   height: 300px;
   position: relative;
   transform: rotateX(30deg);
